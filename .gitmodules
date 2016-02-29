@@ -1,0 +1,3 @@
+[submodule "Judge-sender"]
+	path = Judge-sender
+	url = https://github.com/JudgeGirl/Judge-sender
